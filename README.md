@@ -1,4 +1,4 @@
-# 8 Week SQL Challenges by Danny | Case Study #1 - Pizza Runner
+# 8 Week SQL Challenges by Danny | Case Study #2 - Pizza Runner
 ### ERD for Database
 ![image](https://github.com/user-attachments/assets/baab67e2-5068-4808-8b52-036d4650077e)
 
